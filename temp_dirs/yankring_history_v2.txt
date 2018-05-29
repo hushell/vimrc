@@ -1,0 +1,100 @@
+RoundNoGradient,v
+net['T'] = NET_T(opt),v
+http://localhost:1234/?token=b15061130880704feabb4d9faf2b4a37bd8544a36dec831d,v
+bin_widths = numpy.linspace(0.2, 6., num=30),v
+	,V
+				   ,v
+			   ,v
+Jennifer Love Hewitt,v
+http://localhost:1234/?token=c5517e1a874795b982f076b2451f117f1ad309ec9a119371,v
+at::histc_out,v
+find . -type f -exec grep -l 'needle' {} \;,v
+http://localhost:1234/?token=f8e9c5effa5124be5fa9760fb7a59ee221bc779951e033b2,v
+https://www.gumtree.com/p/property-to-share/nice-double-room.-central/1297282651,v
+Madilyn Baile,v
+http://hushell.github.io/papers/cv.pdf,v
+fast ,v
+>,v
+Papers,v
+Paper,v
+success,v
+    {% if include.paper.doc-url %}      <a href="{{ include.paper.doc-url }}" class="label label-success">Paper</a>    {% endif %},V
+Code,v
+ode,v
+code,v
+    {% if include.paper.code %}      <a href="{{ include.paper.code }}" class="label label-success">Code</a>    {% endif %},V
+http://127.0.0.1:4001,v
+ ,v
+papers/hu18-combined.pdf,v
+<a href="papers/hu18-combined.pdf">,v
+aistats18_main,v
+http://localhost:4000,v
+compression,v
+Image,v
+graphics,v
+Inverse,v
+, 3D urban,v
+understanding,v
+Scene,v
+Scene ,v
+many,v
+many ,v
+applications,v
+in,v
+.,v
+usefulness,v
+We propose an efficient dual augmented La-grangian formulation to learn conditional random fields (CRF). Our algorithm, which can be interpreted as an inexact gradient descent algorithm on the multiplier, does not require to perform global inference iteratively, and requires only a fixed number of stochastic clique-wise updates at each epoch to obtain a sufficiently good estimate of the gradient w.r.t. the Lagrange multipliers. We prove that the proposed algorithm enjoys global linear convergence for both the primal and the dual objectives. Our experiments show that the proposed algorithm outperforms state-of-the-art baselines in terms of speed of convergence.,v
+      This paper presents a new probabilistic generative model for image segmentation, i.e. the task of partitioning an image into homogeneous regions. Our model is grounded on a mid-level image representation, called a region tree, in which regions are recursively split into subregions until superpixels are reached. Given the region tree, image segmentation is formalized as sampling cuts in the tree from the model. Inference for the cuts is exact, and formulated using dynamic programming. Our tree-cut model can be tuned to sample segmentations at a particular scale of interest out of many possible multiscale image segmentations. This generalizes the common notion that there should be only one correct segmentation per image. Also, it allows moving beyond the standard single-scale evaluation, where the segmentation result for an image is averaged against the corresponding set of coarse and fine human annotations, to conduct a scale-specific evaluation. Our quantitative results are comparable to those of the leading gPb-owt-ucm method, with the notable advantage that we additionally produce a distribution over all possible tree-consistent segmentations of the image.,V
+Arxiv,v
+treecut,v
+1506.03852v1.pdf,v
+Christopher K. I. Williams, Sinisa Todorovic,v
+Tree-Cut for Probabilistic Image Segmentation,v
+  - layout: paper    selected: y    paper-type: inproceedings    year: 2015    title: Tree-Cut for Probabilistic Image Segmentation    authors: Shell X. Hu, Christopher K. I. Williams, Sinisa Todorovic    doc-url: papers/1506.03852v1.pdf    code: https://github.com/hushell/treecut    img: treecut    booktitle: Arxiv    abstract: >       This paper presents a new probabilistic generative model for image segmentation, i.e. the task of partitioning an image into homogeneous regions. Our model is grounded on a mid-level image representation, called a region tree, in which regions are recursively split into subregions until superpixels are reached. Given the region tree, image segmentation is formalized as sampling cuts in the tree from the model. Inference for the cuts is exact, and formulated using dynamic programming. Our tree-cut model can be tuned to sample segmentations at a particular scale of interest out of many possible multiscale image segmentations. This generalizes the common notion that there should be only one correct segmentation per image. Also, it allows moving beyond the standard single-scale evaluation, where the segmentation result for an image is averaged against the corresponding set of coarse and fine human annotations, to conduct a scale-specific evaluation. Our quantitative results are comparable to those of the leading gPb-owt-ucm method, with the notable advantage that we additionally produce a distribution over all possible tree-consistent segmentations of the image.,v
+  - layout: paper    selected: y    paper-type: inproceedings    year: 2015    title: Tree-Cut for Probabilistic Image Segmentation    authors: Shell X. Hu, Christopher K. I. Williams, Sinisa Todorovic    doc-url: papers/1506.03852v1.pdf    code: https://github.com/hushell/treecut    img: treecut    booktitle: Arxiv    abstract: >       This paper presents a new probabilistic generative model for image segmentation, i.e. the task of partitioning an image into homogeneous regions. Our model is grounded on a mid-level image representation, called a region tree, in which regions are recursively split into subregions until superpixels are reached. Given the region tree, image segmentation is formalized as sampling cuts in the tree from the model. Inference for the cuts is exact, and formulated using dynamic programming. Our tree-cut model can be tuned to sample segmentations at a particular scale of interest out of many possible multiscale image segmentations. This generalizes the common notion that there should be only one correct segmentation per image. Also, it allows moving beyond the standard single-scale evaluation, where the segmentation result for an image is averaged against the corresponding set of coarse and fine human annotations, to conduct a scale-specific evaluation. Our quantitative results are comparable to those of the leading gPb-owt-ucm method, with the notable advantage that we additionally produce a distribution over all possible tree-consistent segmentations of the image.,V
+								  ,v
+					  ,v
+	,v
+CVPR,v
+Accepted at ,v
+Shell ,v
+Xu Hu9 Avenue Blaise PascalChamps Sur Marne, France22th, April, 2018British Embassy in ParisDear Sir or Madam,I am writing to you as the sponsor of my wife, Zhan Zhao, in support of her tourist visa application to join me in the UK for three months (from June 2018 to September 2018).I am employed by Amazon Cambridge Research as an intern from 28/05/2018 to 14/09/2018. I am applying for a Tier 5 visa (Ref. No. GWF047580368) while Zhan is applying for a tourist visa at the same time. I will cover all her costs including living, accommodation etc for the duration of her stay in the UK.Regarding the travel details. We will fly together to the UK on 23/05/2018 and come back to Paris before 20/09/2018. We will mainly stay at Cambridge for the duration of our stay. She would like to spend most of her time on her own study in the library of the University of Cambridge while I work at Amazon. We plan to visit several cities in England, Scotland and Wales during the weekends and other holidays.In support of the application please find enclosed:Bank statementMarriage certificateYour sincerely,Xu Hu,V
+/home/hushell/appl/UK_visa/DSC_0004_final2_6inx4in.JPG,v
+/media/hushell/NIKON D5300/DCIM/100D5300/DSC_0001.JPG/media/hushell/NIKON D5300/DCIM/100D5300/DSC_0002.JPG/media/hushell/NIKON D5300/DCIM/100D5300/DSC_0003.JPG/media/hushell/NIKON D5300/DCIM/100D5300/DSC_0004.JPG/media/hushell/NIKON D5300/DCIM/100D5300/DSC_0005.JPG/media/hushell/NIKON D5300/DCIM/100D5300/DSC_0006.JPG,v
+http://www.lps.ens.fr/~krzakala,v
+# H_in + 2*padw ,v
+out, ,v
+        init.normal(m.weight.data, 0.0, 0.02),V
+Tong, in parallel, you may try alternative 1 (on the diagram, i.e., an autoencoder) for MNIST first: just need to change ,v
+filters = ():e tra  ,V
+#,v
+n,v
+#num_cols= choose the grid size you want,V
+    plt.axis('off'),V
+ plt.xlabel('Epoch')    plt.ylabel('Loss')    plt.legend(loc=4)    plt.grid(True)    plt.tight_layout()    if save:        plt.savefig(path)    if show:        plt.show(),v
+    plt.tight_layout(),V
+else,v
+,,v
+False,v
+=,v
+isshow,v
+, isshow=False, issave=True,v
+path,v
+dir_path + 'logdir/plots/',v
+    ,V
+train_loss,v
+xx,1
+range(len(train_loss)),v
+x = ,v
+  ,V
+,V
+x = range(len(train_loss))plt.plot(x, train_loss, label='train_loss')plt.plot(x, test_loss, label='test_loss')plt.xlabel('Epoch')plt.ylabel('Loss')plt.legend(loc=4)plt.grid(True)plt.tight_layout()if save:    plt.savefig(path)if show:    plt.show(),V
+                                         ,v
+                                   ,v
+                           ,v
+                     ,v
+                 ,v
+             ,v
+         ,v
+     ,v
+D,v
